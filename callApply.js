@@ -21,7 +21,7 @@ const heroPerson = {
 const friendlyPerson = {
     firstName: 'Hero',
     lastName: 'Pro',
-    salary:25000
+    salary:25000 
 }
 
 normalPerson.chargeBill();
